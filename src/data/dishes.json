@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombre": "Burger Urbana Premium",
+    "descripcion": "Carne angus 200g, queso cheddar, tocino crujiente, lechuga, tomate, cebolla roja, salsa casera. Pan brioche artesanal.",
+    "categoria": "Platos principales",
+    "imagen": "/assets/dishes/burger.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Tacos al Carbón",
+    "descripcion": "3 tacos de carne asada con cebolla y cilantro. Acompañados con limón, salsa verde y pico de gallo.",
+    "categoria": "Platos principales",
+    "imagen": "/assets/dishes/tacos.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Salmón a la Mantequilla",
+    "descripcion": "Filete de salmón fresco a la parrilla con mantequilla de ajo, limón y hierbas. Servido con verduras asadas.",
+    "categoria": "Platos principales",
+    "imagen": "/assets/dishes/salmon.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Pasta Negra Gourmet",
+    "descripcion": "Espagueti negro de calamar con camarones, ajo, aceite de oliva extra virgen y perejil fresco.",
+    "categoria": "Platos principales",
+    "imagen": "/assets/dishes/pasta.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Refresco de Maracuyá",
+    "descripcion": "Bebida refrescante natural con jugo de maracuyá, hielo, azúcar y un toque de lima.",
+    "categoria": "Bebidas",
+    "imagen": "/assets/dishes/maracuya.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Batido de Fresas",
+    "descripcion": "Fresas frescas licuadas con yogur natural, miel y un splash de leche. Servido helado.",
+    "categoria": "Bebidas",
+    "imagen": "/assets/dishes/batido-fresa.webp"
+  },
+  {
+    "id": 7,
+    "nombre": "Café Espresso Premium",
+    "descripcion": "Café espresso de granos 100% arábica, tostado oscuro. Servido caliente en taza de cerámica.",
+    "categoria": "Bebidas",
+    "imagen": "/assets/dishes/cafe.webp"
+  },
+  {
+    "id": 8,
+    "nombre": "Coctel Tropical",
+    "descripcion": "Ron blanco, jugo de piña, coco fresco, naranja y un toque de menta. Servido con hielo.",
+    "categoria": "Bebidas",
+    "imagen": "/assets/dishes/coctel.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "Tiramisú Italiano",
+    "descripcion": "Postre tradicional italiano con capas de bizcocho, mascarpone, café y cacao. Frío y delicioso.",
+    "categoria": "Postres",
+    "imagen": "/assets/dishes/tiramisu.webp"
+  },
+  {
+    "id": 10,
+    "nombre": "Cheesecake de Frutos Rojos",
+    "descripcion": "Base de galletas, relleno cremoso de queso, mermelada de frutos rojos y fruta fresca arriba.",
+    "categoria": "Postres",
+    "imagen": "/assets/dishes/cheesecake.webp"
+  },
+  {
+    "id": 11,
+    "nombre": "Brownie de Chocolate",
+    "descripcion": "Brownie casero esponjoso de chocolate oscuro, nueces pecanas y chocolate derretido. Servido caliente.",
+    "categoria": "Postres",
+    "imagen": "/assets/dishes/brownie.webp"
+  },
+  {
+    "id": 12,
+    "nombre": "Helado Artesanal de Vainilla",
+    "descripcion": "Helado cremoso hecho con vainilla natural, leche fresca y crema. Acompañado de galletas de la casa.",
+    "categoria": "Postres",
+    "imagen": "/assets/dishes/helado.webp"
+  }
+]
