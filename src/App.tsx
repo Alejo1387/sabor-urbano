@@ -3,6 +3,7 @@ import Header from './components/Header';
 import MenuFilter from './components/MenuFilter';
 import DishCard from './components/DishCard';
 import dishes from './data/dishes.json';
+import logoSaborUrbano from './assets/logoSaborUrbano.jpeg';
 
 // Definir el tipo de un plato
 interface Dish {
@@ -35,7 +36,7 @@ export default function App() {
       {/* Header con nombre y logo del restaurante */}
       <Header
         restaurantName="Sabor Urbano"
-        logoUrl="/assets/logoSaborUrbano.jpeg"
+        logoUrl={logoSaborUrbano}
       />
 
       {/* Botones para filtrar por categoría */}
