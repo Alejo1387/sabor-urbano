@@ -1,0 +1,21 @@
+/* 🎨 COLORES DE SABOR URBANO */
+
+:root {
+  /* Color principal - Fondo oscuro (lujo y sofisticación) */
+  --color-dark: #111111;
+  
+  /* Color de acento - Dorado (elegancia y premium) */
+  --color-gold: #D4AF37;
+  
+  /* Color de contraste - Blanco (claridad) */
+  --color-white: #FFFFFF;
+  
+  /* Color secundario - Rojo vino (énfasis y pasión) */
+  --color-wine: #8B0000;
+  
+  /* Colores auxiliares */
+  --color-gray-light: #F5F5F5;
+  --color-gray-dark: #333333;
+  --color-text: #FFFFFF;
+  --color-text-secondary: #D4AF37;
+}
